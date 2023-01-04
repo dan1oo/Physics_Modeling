@@ -1,6 +1,10 @@
 from vpython import *
 #Web VPython 3.2
 from visual import * 
+
+"""
+This program models simple projectile motion.
+"""
 scene = display(width=600, height=600, center=vector(0,0,0), background=color.white) 
 # The origin and tips of vectors A and B 
 surface= box(pos=vec(0,0,0), length=12, height=0.1, width=0) 
