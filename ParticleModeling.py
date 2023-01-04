@@ -3,6 +3,15 @@ from vpython import *
 
 #Setu-p
 from visual import * 
+
+"""
+This program models wave motion based on the displacement of a charged particle in a uniform line of identical charged particles.
+
+The repulsive force comes from coloumbs law.
+"""
+
+
+
 scene = display(width=600, height=600, center=vector(0,0,0), background=color.white) 
 G=6.67*10**(-11) # Gravitational Constant 
 K=8.987552e9 # Coulomb Constant 
