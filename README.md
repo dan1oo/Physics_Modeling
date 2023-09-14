@@ -1,5 +1,7 @@
 # Physics_Modeling
 
+##Set of VPython (Vector Python) simulations for Physics Lab 115. Models include simulations of various orbit and projectile trajectories.
+
 
 To run with python env without jupyter notebook
 
